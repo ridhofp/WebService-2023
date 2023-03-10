@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<biodata>
+<dataDiri>
+    <nama>Ridho Fitra Palasa</nama>
+
+    <telp>1234567890</telp>
+    <surel>palasaaridho@gmail.com</surel>
+    <situsweb> palasaaa.my.id</situsweb>
+    <status>Belum Menikah</status>
+    <Nim> 2110059</Nim>
+    <lahir>
+        <tempat>Karawang</tempat>
+        <tanggal>16 November 2002</tanggal>
+    </lahir>
+</dataDiri>
+<dataOrtu>
+    <dataAyah>
+        <namaAyah>Bpk.Wawan</namaAyah>
+    </dataAyah>
+    <dataIbu>
+    Ibu.Lela
+    </dataIbu>
+</dataOrtu>
+
+</biodata>
